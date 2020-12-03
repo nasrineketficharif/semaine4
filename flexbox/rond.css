@@ -1,0 +1,52 @@
+div.carré {
+    position: relative;
+    width: 200px ;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100%;
+    border-style: dashed;
+    
+    display: inline-block
+
+
+
+}
+div {position: absolute;
+
+
+}
+
+div.rond{
+    margin: 30px;
+    width: 140px;
+    height:140px ;
+    background-color: rgb(65, 225, 105);
+    border-radius: 100%;
+
+}
+
+div.rond2
+{ width: 120px;
+    height:120px ;
+    background-color: rgb(0, 9, 128);
+    border-radius: 100%;
+    margin: 10px;
+
+
+}
+
+div.rond3
+{ width: 100px;
+    height:100px ;
+    background-color: yellow;
+    border-radius: 100%;
+    margin: 10px;
+    }
+
+    div.rond4
+    {
+        width: 80px;
+        height:80px ;
+        background-color:orangered;
+        border-radius: 100%;
+        margin: 10px;
